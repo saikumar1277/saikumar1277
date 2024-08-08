@@ -3,7 +3,6 @@
 
 - 💻 learning React Js
 - 🧑‍💼 Exploring Data Structure and Algos
-- 🎓 CSE Undergrad 2024
 
 
 ## Connect with me:
