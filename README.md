@@ -1,6 +1,5 @@
 # Hey! I am Sai Kumar
-## I build things for Web
-
+## I build things for Web Dev
 - 💻 learning React Js
 - 🧑‍💼 Exploring Data Structure and Algos
 
